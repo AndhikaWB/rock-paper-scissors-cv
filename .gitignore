@@ -1,4 +1,5 @@
 /.venv/
-/data/
+/data/*
 
 /archive.zip
+!/data/model.hdf5
