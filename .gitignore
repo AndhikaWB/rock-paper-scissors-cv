@@ -3,3 +3,4 @@
 
 /archive.zip
 !/data/model.hdf5
+!/data/model.hist
