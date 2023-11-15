@@ -1,0 +1,12 @@
+# Machine learning
+tensorflow>=2.14.0
+keras>=2.15.0
+# Visualisasi data
+plotly>=5.18.0
+
+# Dependensi Tensorflow
+pillow>=10.1.0
+scipy>=1.11.3
+# Dependensi Plotly
+pandas>=2.1.2
+nbformat>=5.9.2
