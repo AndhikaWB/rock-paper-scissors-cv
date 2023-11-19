@@ -2,4 +2,4 @@
 /data/*
 
 /archive.zip
-!/data/model.zip
+!/data/model*.*
