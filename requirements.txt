@@ -3,6 +3,8 @@ tensorflow>=2.14.0
 keras>=2.15.0
 # Visualisasi data
 plotly>=5.18.0
+# Edge detection
+opencv-python>=4.8.1.78
 
 # Dependensi Tensorflow
 pillow>=10.1.0
