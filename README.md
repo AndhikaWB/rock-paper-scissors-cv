@@ -56,7 +56,7 @@ By combining Canny filter and hue changer (each with 50% chance, exclusively) to
 See changelog inside the notebook file.
 1. Batch normalization is a great alternative for dropout. The model can learn better important features compared to without using it. However, unlike dropout, batch normalization will increase computation time and process, especially if added on every single layer.
 2. Combining Canny filter with hue and brightness changer (each has 50% chance exclusively) for preprocessing images can produce better model, especially if the dataset is pretty small (< 5000 images) and lack variations.
-3. The number of dense layer neurons will also affect prediction accuracy. 512 or 1024 neurons are quite acceptable for 5 layered CNN (3 conv, 2 dense). Bigger neurons (e.g. 4096) will start to fail, probably because there's too many features that's taken into consideration.
+3. The number of dense layer neurons will also affect prediction accuracy. 512 or 1024 neurons are quite acceptable for 5 layered CNN (3 conv, 2 dense). Bigger neurons (e.g. 4096) will start to fail, probably because there are too many features that are taken into consideration.
 
 ## Dataset Source
 - [Laurence Moroney](https://laurencemoroney.com/datasets.html#rock-paper-scissors-dataset) (link may be dead, use archive.org)
