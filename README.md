@@ -61,3 +61,4 @@ See changelog inside the notebook file.
 ## Dataset Source
 - [Laurence Moroney](https://laurencemoroney.com/datasets.html#rock-paper-scissors-dataset) (link may be dead, use archive.org)
 - [Julien de la Bruère-Terreault](https://www.kaggle.com/datasets/drgfreeman/rockpaperscissors/data) ([GitHub](https://github.com/DrGFreeman/rps-cv))
+- [Rock paper scissors - Wikipedia](https://wikipedia.org/wiki/Rock_paper_scissors) (images by Fluff and Sertion)
